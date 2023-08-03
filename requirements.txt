@@ -1,0 +1,6 @@
+huggingface_hub 
+transformers
+langchain==0.0.251
+chainlit
+python-dotenv
+langsmith
